@@ -9,7 +9,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
-  "author": "Filatev Vladislav",
+  "author": "Golovkin Maksim",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.26.0",
